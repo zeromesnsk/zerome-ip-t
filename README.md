@@ -11,11 +11,11 @@ a ZEROME IP Tools
 ## ইন্সটলেশন
 
 Termux-এ ইন্সটল করতে:
-
+👇👇
 bash
 pkg update && pkg upgrade
 pkg install python
-git clone https://github.com/your-username/zerome-tools.git
+git clone https://github.com/zeromesnsk/zerome-ip-tools.git
 cd zerome-tools
 pip install -r requirements.txt
 python zerome_tool.py
