@@ -49,8 +49,8 @@ def display_banner():
 {Colors.END}
 {Colors.BOLD}{Colors.PURPLE}
       ╔══════════════════════════════════════════╗
-      ║        Z E R O M E   IP   T O O L S       ║
-      ║          Advanced IP  & Security.         ║
+      ║        Z E R O M E   IP   T O O L S      ║
+      ║          Advanced IP  & Security.        ║
       ╚══════════════════════════════════════════╝{Colors.END}
 
                  {Colors.YELLOW}▀█ █▀▀ █▀█ █▀█ █▀▄▀█ █▀▀
